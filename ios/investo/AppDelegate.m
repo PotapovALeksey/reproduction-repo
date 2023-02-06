@@ -1,20 +1,13 @@
 #import "AppDelegate.h"
 
-#import "RNQuickActionManager.h"
 #import <React/RCTBundleURLProvider.h>
-#import <Firebase.h>
 
 @implementation AppDelegate
-
-- (void)application:(UIApplication *)application performActionForShortcutItem:(UIApplicationShortcutItem *)shortcutItem completionHandler:(void (^)(BOOL succeeded)) completionHandler {
-  [RNQuickActionManager onQuickActionPress:shortcutItem completionHandler:completionHandler];
-}
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
   self.moduleName = @"investo";
-  [FIRApp configure];
-  
+
   return [super application:application didFinishLaunchingWithOptions:launchOptions];
 }
 

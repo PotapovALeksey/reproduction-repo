@@ -11,15 +11,7 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		25251E811CED4CD991F3056F /* e-Ukraine-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9C90B943A10A4B8BA0010043 /* e-Ukraine-Thin.otf */; };
-		2895D8E5D79A447D8375D7A8 /* e-Ukraine-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 337FE6ADC9EA4BA78B9FE727 /* e-Ukraine-Bold.otf */; };
-		6CE5984D6E504B6CB1EDCDCA /* e-Ukraine-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = C429856D2210436687AC34D6 /* e-Ukraine-Regular.otf */; };
-		7477C1CCCC8D4931AAB9377B /* e-Ukraine-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = DBB94ACE62DE413CB875E0F5 /* e-Ukraine-Light.otf */; };
-		78AA238B27B5332000FF6832 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 78AA238A27B5332000FF6832 /* GoogleService-Info.plist */; };
-		78AA238C27B5332000FF6832 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 78AA238A27B5332000FF6832 /* GoogleService-Info.plist */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		9168B7EAF726466886DD1374 /* e-Ukraine-UltraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = B1CD38C91A4E49BD81AD4BC9 /* e-Ukraine-UltraLight.otf */; };
-		979973E8066646A7838CE89F /* e-Ukraine-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 276900A06DD34ADFBAF26ACB /* e-Ukraine-Medium.otf */; };
 		B3155F0B21CBEC715DF40440 /* Pods_investo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04BE503DA47E8810C901D158 /* Pods_investo.framework */; };
 		E25350325BE2B1ED399E960F /* Pods_investo_investoTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DACE0B9FE197D26A6BFB1391 /* Pods_investo_investoTests.framework */; };
 /* End PBXBuildFile section */
@@ -47,19 +39,12 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = investo/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = investo/main.m; sourceTree = "<group>"; };
 		1AC8E95947A4E704BBEE95E4 /* Pods-investo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-investo.debug.xcconfig"; path = "Target Support Files/Pods-investo/Pods-investo.debug.xcconfig"; sourceTree = "<group>"; };
-		276900A06DD34ADFBAF26ACB /* e-Ukraine-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "e-Ukraine-Medium.otf"; path = "../src/assets/fonts/e-Ukraine-Medium.otf"; sourceTree = "<group>"; };
-		337FE6ADC9EA4BA78B9FE727 /* e-Ukraine-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "e-Ukraine-Bold.otf"; path = "../src/assets/fonts/e-Ukraine-Bold.otf"; sourceTree = "<group>"; };
 		4A6C64C5920161412445B9A8 /* Pods-investo-investoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-investo-investoTests.release.xcconfig"; path = "Target Support Files/Pods-investo-investoTests/Pods-investo-investoTests.release.xcconfig"; sourceTree = "<group>"; };
 		7869D2F427B40F3C00B45FFE /* investoRelease.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = investoRelease.entitlements; path = investo/investoRelease.entitlements; sourceTree = "<group>"; };
 		7869D2F527B41CF500B45FFE /* investo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = investo.entitlements; path = investo/investo.entitlements; sourceTree = "<group>"; };
-		78AA238A27B5332000FF6832 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = investo/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		9C90B943A10A4B8BA0010043 /* e-Ukraine-Thin.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "e-Ukraine-Thin.otf"; path = "../src/assets/fonts/e-Ukraine-Thin.otf"; sourceTree = "<group>"; };
 		9D26B538BE3B17843D85984D /* Pods-investo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-investo.release.xcconfig"; path = "Target Support Files/Pods-investo/Pods-investo.release.xcconfig"; sourceTree = "<group>"; };
-		B1CD38C91A4E49BD81AD4BC9 /* e-Ukraine-UltraLight.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "e-Ukraine-UltraLight.otf"; path = "../src/assets/fonts/e-Ukraine-UltraLight.otf"; sourceTree = "<group>"; };
-		C429856D2210436687AC34D6 /* e-Ukraine-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "e-Ukraine-Regular.otf"; path = "../src/assets/fonts/e-Ukraine-Regular.otf"; sourceTree = "<group>"; };
 		DACE0B9FE197D26A6BFB1391 /* Pods_investo_investoTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_investo_investoTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DBB94ACE62DE413CB875E0F5 /* e-Ukraine-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "e-Ukraine-Light.otf"; path = "../src/assets/fonts/e-Ukraine-Light.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -103,7 +88,6 @@
 		13B07FAE1A68108700A75B9A /* investo */ = {
 			isa = PBXGroup;
 			children = (
-				78AA238A27B5332000FF6832 /* GoogleService-Info.plist */,
 				7869D2F527B41CF500B45FFE /* investo.entitlements */,
 				7869D2F427B40F3C00B45FFE /* investoRelease.entitlements */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
@@ -126,19 +110,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		723F13558CC748B892D25BDA /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				337FE6ADC9EA4BA78B9FE727 /* e-Ukraine-Bold.otf */,
-				DBB94ACE62DE413CB875E0F5 /* e-Ukraine-Light.otf */,
-				276900A06DD34ADFBAF26ACB /* e-Ukraine-Medium.otf */,
-				C429856D2210436687AC34D6 /* e-Ukraine-Regular.otf */,
-				9C90B943A10A4B8BA0010043 /* e-Ukraine-Thin.otf */,
-				B1CD38C91A4E49BD81AD4BC9 /* e-Ukraine-UltraLight.otf */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -155,7 +126,6 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				E233CBF5F47BEE60B243DCF8 /* Pods */,
-				723F13558CC748B892D25BDA /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -269,7 +239,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				78AA238C27B5332000FF6832 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,14 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
-				78AA238B27B5332000FF6832 /* GoogleService-Info.plist in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				2895D8E5D79A447D8375D7A8 /* e-Ukraine-Bold.otf in Resources */,
-				7477C1CCCC8D4931AAB9377B /* e-Ukraine-Light.otf in Resources */,
-				979973E8066646A7838CE89F /* e-Ukraine-Medium.otf in Resources */,
-				6CE5984D6E504B6CB1EDCDCA /* e-Ukraine-Regular.otf in Resources */,
-				25251E811CED4CD991F3056F /* e-Ukraine-Thin.otf in Resources */,
-				9168B7EAF726466886DD1374 /* e-Ukraine-UltraLight.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
