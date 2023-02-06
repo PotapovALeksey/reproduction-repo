@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "935455845946",
+    "firebase_url": "https://uainvestoapp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "uainvestoapp",
+    "storage_bucket": "uainvestoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935455845946:android:361de30e93013153bfcf03",
+        "android_client_info": {
+          "package_name": "com.newage.investo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935455845946-rg66s2k2ntfir4selh1ttc9945f39npv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACro3eQKl4rYKj00gqg-YNRjljECxjANw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935455845946-rg66s2k2ntfir4selh1ttc9945f39npv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935455845946-cu06e781c13t2pujcsam9d0dp5cqu425.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.newage.investo.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

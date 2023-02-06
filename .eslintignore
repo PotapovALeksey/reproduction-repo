@@ -1,0 +1,10 @@
+build
+node_modules
+coverage
+public
+src/assets
+.cache
+*.test.tsx
+*.d.ts
+image-ticker.options.ts
+.eslintrc.js
